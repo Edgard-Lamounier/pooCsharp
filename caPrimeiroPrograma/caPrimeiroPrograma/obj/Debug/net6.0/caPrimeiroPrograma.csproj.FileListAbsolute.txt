@@ -1,0 +1,15 @@
+C:\Users\Edgard\source\repos\caPrimeiroPrograma\caPrimeiroPrograma\bin\Debug\net6.0\caPrimeiroPrograma.exe
+C:\Users\Edgard\source\repos\caPrimeiroPrograma\caPrimeiroPrograma\bin\Debug\net6.0\caPrimeiroPrograma.deps.json
+C:\Users\Edgard\source\repos\caPrimeiroPrograma\caPrimeiroPrograma\bin\Debug\net6.0\caPrimeiroPrograma.runtimeconfig.json
+C:\Users\Edgard\source\repos\caPrimeiroPrograma\caPrimeiroPrograma\bin\Debug\net6.0\caPrimeiroPrograma.dll
+C:\Users\Edgard\source\repos\caPrimeiroPrograma\caPrimeiroPrograma\bin\Debug\net6.0\caPrimeiroPrograma.pdb
+C:\Users\Edgard\source\repos\caPrimeiroPrograma\caPrimeiroPrograma\obj\Debug\net6.0\caPrimeiroPrograma.csproj.AssemblyReference.cache
+C:\Users\Edgard\source\repos\caPrimeiroPrograma\caPrimeiroPrograma\obj\Debug\net6.0\caPrimeiroPrograma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edgard\source\repos\caPrimeiroPrograma\caPrimeiroPrograma\obj\Debug\net6.0\caPrimeiroPrograma.AssemblyInfoInputs.cache
+C:\Users\Edgard\source\repos\caPrimeiroPrograma\caPrimeiroPrograma\obj\Debug\net6.0\caPrimeiroPrograma.AssemblyInfo.cs
+C:\Users\Edgard\source\repos\caPrimeiroPrograma\caPrimeiroPrograma\obj\Debug\net6.0\caPrimeiroPrograma.csproj.CoreCompileInputs.cache
+C:\Users\Edgard\source\repos\caPrimeiroPrograma\caPrimeiroPrograma\obj\Debug\net6.0\caPrimeiroPrograma.dll
+C:\Users\Edgard\source\repos\caPrimeiroPrograma\caPrimeiroPrograma\obj\Debug\net6.0\refint\caPrimeiroPrograma.dll
+C:\Users\Edgard\source\repos\caPrimeiroPrograma\caPrimeiroPrograma\obj\Debug\net6.0\caPrimeiroPrograma.pdb
+C:\Users\Edgard\source\repos\caPrimeiroPrograma\caPrimeiroPrograma\obj\Debug\net6.0\caPrimeiroPrograma.genruntimeconfig.cache
+C:\Users\Edgard\source\repos\caPrimeiroPrograma\caPrimeiroPrograma\obj\Debug\net6.0\ref\caPrimeiroPrograma.dll

@@ -1,0 +1,8 @@
+C:\Users\Edgard\source\repos\caPessoaIdade\caPessoaIdade\obj\Debug\caPessoaIdade.csproj.AssemblyReference.cache
+C:\Users\Edgard\source\repos\caPessoaIdade\caPessoaIdade\obj\Debug\caPessoaIdade.csproj.SuggestedBindingRedirects.cache
+C:\Users\Edgard\source\repos\caPessoaIdade\caPessoaIdade\obj\Debug\caPessoaIdade.csproj.CoreCompileInputs.cache
+C:\Users\Edgard\source\repos\caPessoaIdade\caPessoaIdade\bin\Debug\caPessoaIdade.exe.config
+C:\Users\Edgard\source\repos\caPessoaIdade\caPessoaIdade\bin\Debug\caPessoaIdade.exe
+C:\Users\Edgard\source\repos\caPessoaIdade\caPessoaIdade\bin\Debug\caPessoaIdade.pdb
+C:\Users\Edgard\source\repos\caPessoaIdade\caPessoaIdade\obj\Debug\caPessoaIdade.exe
+C:\Users\Edgard\source\repos\caPessoaIdade\caPessoaIdade\obj\Debug\caPessoaIdade.pdb
