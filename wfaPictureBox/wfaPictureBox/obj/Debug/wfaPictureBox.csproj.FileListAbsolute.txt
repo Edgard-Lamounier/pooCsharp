@@ -1,0 +1,11 @@
+C:\Users\lamou\source\repos\wfaPictureBox\wfaPictureBox\bin\Debug\wfaPictureBox.exe.config
+C:\Users\lamou\source\repos\wfaPictureBox\wfaPictureBox\bin\Debug\wfaPictureBox.exe
+C:\Users\lamou\source\repos\wfaPictureBox\wfaPictureBox\bin\Debug\wfaPictureBox.pdb
+C:\Users\lamou\source\repos\wfaPictureBox\wfaPictureBox\obj\Debug\wfaPictureBox.csproj.AssemblyReference.cache
+C:\Users\lamou\source\repos\wfaPictureBox\wfaPictureBox\obj\Debug\wfaPictureBox.csproj.SuggestedBindingRedirects.cache
+C:\Users\lamou\source\repos\wfaPictureBox\wfaPictureBox\obj\Debug\wfaPictureBox.Form1.resources
+C:\Users\lamou\source\repos\wfaPictureBox\wfaPictureBox\obj\Debug\wfaPictureBox.Properties.Resources.resources
+C:\Users\lamou\source\repos\wfaPictureBox\wfaPictureBox\obj\Debug\wfaPictureBox.csproj.GenerateResource.cache
+C:\Users\lamou\source\repos\wfaPictureBox\wfaPictureBox\obj\Debug\wfaPictureBox.csproj.CoreCompileInputs.cache
+C:\Users\lamou\source\repos\wfaPictureBox\wfaPictureBox\obj\Debug\wfaPictureBox.exe
+C:\Users\lamou\source\repos\wfaPictureBox\wfaPictureBox\obj\Debug\wfaPictureBox.pdb

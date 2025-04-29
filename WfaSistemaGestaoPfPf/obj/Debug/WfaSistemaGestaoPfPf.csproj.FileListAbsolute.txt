@@ -1,0 +1,54 @@
+C:\Users\diogo\source\repos\WfaSistemaGestaoPfPf\bin\Debug\WfaSistemaGestaoPfPf.exe.config
+C:\Users\diogo\source\repos\WfaSistemaGestaoPfPf\bin\Debug\WfaSistemaGestaoPfPf.exe
+C:\Users\diogo\source\repos\WfaSistemaGestaoPfPf\bin\Debug\WfaSistemaGestaoPfPf.pdb
+C:\Users\diogo\source\repos\WfaSistemaGestaoPfPf\obj\Debug\WfaSistemaGestaoPfPf.csproj.AssemblyReference.cache
+C:\Users\diogo\source\repos\WfaSistemaGestaoPfPf\obj\Debug\WfaSistemaGestaoPfPf.csproj.SuggestedBindingRedirects.cache
+C:\Users\diogo\source\repos\WfaSistemaGestaoPfPf\obj\Debug\WfaSistemaGestaoPfPf.Form1.resources
+C:\Users\diogo\source\repos\WfaSistemaGestaoPfPf\obj\Debug\WfaSistemaGestaoPfPf.Properties.Resources.resources
+C:\Users\diogo\source\repos\WfaSistemaGestaoPfPf\obj\Debug\WfaSistemaGestaoPfPf.csproj.GenerateResource.cache
+C:\Users\diogo\source\repos\WfaSistemaGestaoPfPf\obj\Debug\WfaSistemaGestaoPfPf.csproj.CoreCompileInputs.cache
+C:\Users\diogo\source\repos\WfaSistemaGestaoPfPf\obj\Debug\WfaSistemaGestaoPfPf.exe
+C:\Users\diogo\source\repos\WfaSistemaGestaoPfPf\obj\Debug\WfaSistemaGestaoPfPf.pdb
+D:\OneDrive\UFU\Doutorado\POO - Estagio Docencia I\Bk_Projetos\WfaSistemaGestaoPfPf\bin\Debug\WfaSistemaGestaoPfPf.exe.config
+D:\OneDrive\UFU\Doutorado\POO - Estagio Docencia I\Bk_Projetos\WfaSistemaGestaoPfPf\bin\Debug\WfaSistemaGestaoPfPf.exe
+D:\OneDrive\UFU\Doutorado\POO - Estagio Docencia I\Bk_Projetos\WfaSistemaGestaoPfPf\bin\Debug\WfaSistemaGestaoPfPf.pdb
+D:\OneDrive\UFU\Doutorado\POO - Estagio Docencia I\Bk_Projetos\WfaSistemaGestaoPfPf\obj\Debug\WfaSistemaGestaoPfPf.csproj.AssemblyReference.cache
+D:\OneDrive\UFU\Doutorado\POO - Estagio Docencia I\Bk_Projetos\WfaSistemaGestaoPfPf\obj\Debug\WfaSistemaGestaoPfPf.csproj.SuggestedBindingRedirects.cache
+D:\OneDrive\UFU\Doutorado\POO - Estagio Docencia I\Bk_Projetos\WfaSistemaGestaoPfPf\obj\Debug\WfaSistemaGestaoPfPf.Form1.resources
+D:\OneDrive\UFU\Doutorado\POO - Estagio Docencia I\Bk_Projetos\WfaSistemaGestaoPfPf\obj\Debug\WfaSistemaGestaoPfPf.Properties.Resources.resources
+D:\OneDrive\UFU\Doutorado\POO - Estagio Docencia I\Bk_Projetos\WfaSistemaGestaoPfPf\obj\Debug\WfaSistemaGestaoPfPf.csproj.GenerateResource.cache
+D:\OneDrive\UFU\Doutorado\POO - Estagio Docencia I\Bk_Projetos\WfaSistemaGestaoPfPf\obj\Debug\WfaSistemaGestaoPfPf.csproj.CoreCompileInputs.cache
+D:\OneDrive\UFU\Doutorado\POO - Estagio Docencia I\Bk_Projetos\WfaSistemaGestaoPfPf\obj\Debug\WfaSistemaGestaoPfPf.exe
+D:\OneDrive\UFU\Doutorado\POO - Estagio Docencia I\Bk_Projetos\WfaSistemaGestaoPfPf\obj\Debug\WfaSistemaGestaoPfPf.pdb
+D:\DIOGO_POO\PROJETOS\WfaSistemaGestaoPfPf\bin\Debug\WfaSistemaGestaoPfPf.exe.config
+D:\DIOGO_POO\PROJETOS\WfaSistemaGestaoPfPf\bin\Debug\WfaSistemaGestaoPfPf.exe
+D:\DIOGO_POO\PROJETOS\WfaSistemaGestaoPfPf\bin\Debug\WfaSistemaGestaoPfPf.pdb
+D:\DIOGO_POO\PROJETOS\WfaSistemaGestaoPfPf\obj\Debug\WfaSistemaGestaoPfPf.csprojAssemblyReference.cache
+D:\DIOGO_POO\PROJETOS\WfaSistemaGestaoPfPf\obj\Debug\WfaSistemaGestaoPfPf.Form1.resources
+D:\DIOGO_POO\PROJETOS\WfaSistemaGestaoPfPf\obj\Debug\WfaSistemaGestaoPfPf.Properties.Resources.resources
+D:\DIOGO_POO\PROJETOS\WfaSistemaGestaoPfPf\obj\Debug\WfaSistemaGestaoPfPf.csproj.GenerateResource.cache
+D:\DIOGO_POO\PROJETOS\WfaSistemaGestaoPfPf\obj\Debug\WfaSistemaGestaoPfPf.csproj.CoreCompileInputs.cache
+D:\DIOGO_POO\PROJETOS\WfaSistemaGestaoPfPf\obj\Debug\WfaSistemaGestaoPfPf.exe
+D:\DIOGO_POO\PROJETOS\WfaSistemaGestaoPfPf\obj\Debug\WfaSistemaGestaoPfPf.pdb
+C:\Users\lamou\source\repos\WfaSistemaGestaoPfPf\bin\Debug\WfaSistemaGestaoPfPf.exe.config
+C:\Users\lamou\source\repos\WfaSistemaGestaoPfPf\bin\Debug\WfaSistemaGestaoPfPf.exe
+C:\Users\lamou\source\repos\WfaSistemaGestaoPfPf\bin\Debug\WfaSistemaGestaoPfPf.pdb
+C:\Users\lamou\source\repos\WfaSistemaGestaoPfPf\obj\Debug\WfaSistemaGestaoPfPf.csproj.AssemblyReference.cache
+C:\Users\lamou\source\repos\WfaSistemaGestaoPfPf\obj\Debug\WfaSistemaGestaoPfPf.csproj.SuggestedBindingRedirects.cache
+C:\Users\lamou\source\repos\WfaSistemaGestaoPfPf\obj\Debug\WfaSistemaGestaoPfPf.Form1.resources
+C:\Users\lamou\source\repos\WfaSistemaGestaoPfPf\obj\Debug\WfaSistemaGestaoPfPf.Properties.Resources.resources
+C:\Users\lamou\source\repos\WfaSistemaGestaoPfPf\obj\Debug\WfaSistemaGestaoPfPf.csproj.GenerateResource.cache
+C:\Users\lamou\source\repos\WfaSistemaGestaoPfPf\obj\Debug\WfaSistemaGestaoPfPf.csproj.CoreCompileInputs.cache
+C:\Users\lamou\source\repos\WfaSistemaGestaoPfPf\obj\Debug\WfaSistemaGestaoPfPf.exe
+C:\Users\lamou\source\repos\WfaSistemaGestaoPfPf\obj\Debug\WfaSistemaGestaoPfPf.pdb
+C:\Users\Edgard\source\repos\WfaSistemaGestaoPfPf\bin\Debug\WfaSistemaGestaoPfPf.exe.config
+C:\Users\Edgard\source\repos\WfaSistemaGestaoPfPf\bin\Debug\WfaSistemaGestaoPfPf.exe
+C:\Users\Edgard\source\repos\WfaSistemaGestaoPfPf\bin\Debug\WfaSistemaGestaoPfPf.pdb
+C:\Users\Edgard\source\repos\WfaSistemaGestaoPfPf\obj\Debug\WfaSistemaGestaoPfPf.csproj.AssemblyReference.cache
+C:\Users\Edgard\source\repos\WfaSistemaGestaoPfPf\obj\Debug\WfaSistemaGestaoPfPf.csproj.SuggestedBindingRedirects.cache
+C:\Users\Edgard\source\repos\WfaSistemaGestaoPfPf\obj\Debug\WfaSistemaGestaoPfPf.Form1.resources
+C:\Users\Edgard\source\repos\WfaSistemaGestaoPfPf\obj\Debug\WfaSistemaGestaoPfPf.Properties.Resources.resources
+C:\Users\Edgard\source\repos\WfaSistemaGestaoPfPf\obj\Debug\WfaSistemaGestaoPfPf.csproj.GenerateResource.cache
+C:\Users\Edgard\source\repos\WfaSistemaGestaoPfPf\obj\Debug\WfaSistemaGestaoPfPf.csproj.CoreCompileInputs.cache
+C:\Users\Edgard\source\repos\WfaSistemaGestaoPfPf\obj\Debug\WfaSistemaGestaoPfPf.exe
+C:\Users\Edgard\source\repos\WfaSistemaGestaoPfPf\obj\Debug\WfaSistemaGestaoPfPf.pdb
