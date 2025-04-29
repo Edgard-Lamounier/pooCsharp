@@ -1,0 +1,8 @@
+C:\Users\Edgard\source\repos\caNumeroComplexo\caNumeroComplexo\bin\Debug\caNumeroComplexo.exe.config
+C:\Users\Edgard\source\repos\caNumeroComplexo\caNumeroComplexo\bin\Debug\caNumeroComplexo.exe
+C:\Users\Edgard\source\repos\caNumeroComplexo\caNumeroComplexo\bin\Debug\caNumeroComplexo.pdb
+C:\Users\Edgard\source\repos\caNumeroComplexo\caNumeroComplexo\obj\Debug\caNumeroComplexo.csproj.AssemblyReference.cache
+C:\Users\Edgard\source\repos\caNumeroComplexo\caNumeroComplexo\obj\Debug\caNumeroComplexo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Edgard\source\repos\caNumeroComplexo\caNumeroComplexo\obj\Debug\caNumeroComplexo.csproj.CoreCompileInputs.cache
+C:\Users\Edgard\source\repos\caNumeroComplexo\caNumeroComplexo\obj\Debug\caNumeroComplexo.exe
+C:\Users\Edgard\source\repos\caNumeroComplexo\caNumeroComplexo\obj\Debug\caNumeroComplexo.pdb

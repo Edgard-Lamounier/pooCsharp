@@ -1,0 +1,8 @@
+C:\Users\Edgard\source\repos\caNomeProprio\caNomeProprio\bin\Debug\caNomeProprio.exe.config
+C:\Users\Edgard\source\repos\caNomeProprio\caNomeProprio\bin\Debug\caNomeProprio.exe
+C:\Users\Edgard\source\repos\caNomeProprio\caNomeProprio\bin\Debug\caNomeProprio.pdb
+C:\Users\Edgard\source\repos\caNomeProprio\caNomeProprio\obj\Debug\caNomeProprio.csproj.AssemblyReference.cache
+C:\Users\Edgard\source\repos\caNomeProprio\caNomeProprio\obj\Debug\caNomeProprio.csproj.SuggestedBindingRedirects.cache
+C:\Users\Edgard\source\repos\caNomeProprio\caNomeProprio\obj\Debug\caNomeProprio.csproj.CoreCompileInputs.cache
+C:\Users\Edgard\source\repos\caNomeProprio\caNomeProprio\obj\Debug\caNomeProprio.exe
+C:\Users\Edgard\source\repos\caNomeProprio\caNomeProprio\obj\Debug\caNomeProprio.pdb

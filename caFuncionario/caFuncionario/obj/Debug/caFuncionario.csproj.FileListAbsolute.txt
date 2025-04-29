@@ -1,0 +1,8 @@
+C:\Users\Edgard\source\repos\caFuncionario\caFuncionario\bin\Debug\caFuncionario.exe.config
+C:\Users\Edgard\source\repos\caFuncionario\caFuncionario\bin\Debug\caFuncionario.exe
+C:\Users\Edgard\source\repos\caFuncionario\caFuncionario\bin\Debug\caFuncionario.pdb
+C:\Users\Edgard\source\repos\caFuncionario\caFuncionario\obj\Debug\caFuncionario.csproj.AssemblyReference.cache
+C:\Users\Edgard\source\repos\caFuncionario\caFuncionario\obj\Debug\caFuncionario.csproj.SuggestedBindingRedirects.cache
+C:\Users\Edgard\source\repos\caFuncionario\caFuncionario\obj\Debug\caFuncionario.csproj.CoreCompileInputs.cache
+C:\Users\Edgard\source\repos\caFuncionario\caFuncionario\obj\Debug\caFuncionario.exe
+C:\Users\Edgard\source\repos\caFuncionario\caFuncionario\obj\Debug\caFuncionario.pdb

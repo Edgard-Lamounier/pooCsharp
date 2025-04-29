@@ -1,0 +1,7 @@
+C:\Users\GRVA\source\repos\caMaiorIdade\caMaiorIdade\bin\Debug\caMaiorIdade.exe.config
+C:\Users\GRVA\source\repos\caMaiorIdade\caMaiorIdade\bin\Debug\caMaiorIdade.exe
+C:\Users\GRVA\source\repos\caMaiorIdade\caMaiorIdade\bin\Debug\caMaiorIdade.pdb
+C:\Users\GRVA\source\repos\caMaiorIdade\caMaiorIdade\obj\Debug\caMaiorIdade.csproj.AssemblyReference.cache
+C:\Users\GRVA\source\repos\caMaiorIdade\caMaiorIdade\obj\Debug\caMaiorIdade.csproj.CoreCompileInputs.cache
+C:\Users\GRVA\source\repos\caMaiorIdade\caMaiorIdade\obj\Debug\caMaiorIdade.exe
+C:\Users\GRVA\source\repos\caMaiorIdade\caMaiorIdade\obj\Debug\caMaiorIdade.pdb
