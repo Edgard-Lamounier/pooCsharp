@@ -1,0 +1,44 @@
+C:\Users\diogo\source\repos\WfaCalAreaPerimetro\WfaCalAreaPerimetro\bin\Debug\WfaCalAreaPerimetro.exe.config
+C:\Users\diogo\source\repos\WfaCalAreaPerimetro\WfaCalAreaPerimetro\bin\Debug\WfaCalAreaPerimetro.exe
+C:\Users\diogo\source\repos\WfaCalAreaPerimetro\WfaCalAreaPerimetro\bin\Debug\WfaCalAreaPerimetro.pdb
+C:\Users\diogo\source\repos\WfaCalAreaPerimetro\WfaCalAreaPerimetro\obj\Debug\WfaCalAreaPerimetro.Form1.resources
+C:\Users\diogo\source\repos\WfaCalAreaPerimetro\WfaCalAreaPerimetro\obj\Debug\WfaCalAreaPerimetro.Properties.Resources.resources
+C:\Users\diogo\source\repos\WfaCalAreaPerimetro\WfaCalAreaPerimetro\obj\Debug\WfaCalAreaPerimetro.csproj.GenerateResource.cache
+C:\Users\diogo\source\repos\WfaCalAreaPerimetro\WfaCalAreaPerimetro\obj\Debug\WfaCalAreaPerimetro.csproj.CoreCompileInputs.cache
+C:\Users\diogo\source\repos\WfaCalAreaPerimetro\WfaCalAreaPerimetro\obj\Debug\WfaCalAreaPerimetro.exe
+C:\Users\diogo\source\repos\WfaCalAreaPerimetro\WfaCalAreaPerimetro\obj\Debug\WfaCalAreaPerimetro.pdb
+C:\Users\diogo\source\repos\WfaCalAreaPerimetro\WfaCalAreaPerimetro\obj\Debug\WfaCalAreaPerimetro.csproj.AssemblyReference.cache
+C:\Users\diogo\source\repos\WfaCalAreaPerimetro\WfaCalAreaPerimetro\obj\Debug\WfaCalAreaPerimetro.csproj.SuggestedBindingRedirects.cache
+D:\OneDrive\UFU\Doutorado\POO - Estagio Docencia I\Bk_Projetos\WfaCalAreaPerimetro\WfaCalAreaPerimetro\bin\Debug\WfaCalAreaPerimetro.exe.config
+D:\OneDrive\UFU\Doutorado\POO - Estagio Docencia I\Bk_Projetos\WfaCalAreaPerimetro\WfaCalAreaPerimetro\bin\Debug\WfaCalAreaPerimetro.exe
+D:\OneDrive\UFU\Doutorado\POO - Estagio Docencia I\Bk_Projetos\WfaCalAreaPerimetro\WfaCalAreaPerimetro\bin\Debug\WfaCalAreaPerimetro.pdb
+D:\OneDrive\UFU\Doutorado\POO - Estagio Docencia I\Bk_Projetos\WfaCalAreaPerimetro\WfaCalAreaPerimetro\obj\Debug\WfaCalAreaPerimetro.csproj.AssemblyReference.cache
+D:\OneDrive\UFU\Doutorado\POO - Estagio Docencia I\Bk_Projetos\WfaCalAreaPerimetro\WfaCalAreaPerimetro\obj\Debug\WfaCalAreaPerimetro.csproj.SuggestedBindingRedirects.cache
+D:\OneDrive\UFU\Doutorado\POO - Estagio Docencia I\Bk_Projetos\WfaCalAreaPerimetro\WfaCalAreaPerimetro\obj\Debug\WfaCalAreaPerimetro.Form1.resources
+D:\OneDrive\UFU\Doutorado\POO - Estagio Docencia I\Bk_Projetos\WfaCalAreaPerimetro\WfaCalAreaPerimetro\obj\Debug\WfaCalAreaPerimetro.Properties.Resources.resources
+D:\OneDrive\UFU\Doutorado\POO - Estagio Docencia I\Bk_Projetos\WfaCalAreaPerimetro\WfaCalAreaPerimetro\obj\Debug\WfaCalAreaPerimetro.csproj.GenerateResource.cache
+D:\OneDrive\UFU\Doutorado\POO - Estagio Docencia I\Bk_Projetos\WfaCalAreaPerimetro\WfaCalAreaPerimetro\obj\Debug\WfaCalAreaPerimetro.csproj.CoreCompileInputs.cache
+D:\OneDrive\UFU\Doutorado\POO - Estagio Docencia I\Bk_Projetos\WfaCalAreaPerimetro\WfaCalAreaPerimetro\obj\Debug\WfaCalAreaPerimetro.exe
+D:\OneDrive\UFU\Doutorado\POO - Estagio Docencia I\Bk_Projetos\WfaCalAreaPerimetro\WfaCalAreaPerimetro\obj\Debug\WfaCalAreaPerimetro.pdb
+C:\Users\lamou\source\repos\WfaCalAreaPerimetro\WfaCalAreaPerimetro\bin\Debug\WfaCalAreaPerimetro.exe.config
+C:\Users\lamou\source\repos\WfaCalAreaPerimetro\WfaCalAreaPerimetro\bin\Debug\WfaCalAreaPerimetro.exe
+C:\Users\lamou\source\repos\WfaCalAreaPerimetro\WfaCalAreaPerimetro\bin\Debug\WfaCalAreaPerimetro.pdb
+C:\Users\lamou\source\repos\WfaCalAreaPerimetro\WfaCalAreaPerimetro\obj\Debug\WfaCalAreaPerimetro.csproj.AssemblyReference.cache
+C:\Users\lamou\source\repos\WfaCalAreaPerimetro\WfaCalAreaPerimetro\obj\Debug\WfaCalAreaPerimetro.csproj.SuggestedBindingRedirects.cache
+C:\Users\lamou\source\repos\WfaCalAreaPerimetro\WfaCalAreaPerimetro\obj\Debug\WfaCalAreaPerimetro.Form1.resources
+C:\Users\lamou\source\repos\WfaCalAreaPerimetro\WfaCalAreaPerimetro\obj\Debug\WfaCalAreaPerimetro.Properties.Resources.resources
+C:\Users\lamou\source\repos\WfaCalAreaPerimetro\WfaCalAreaPerimetro\obj\Debug\WfaCalAreaPerimetro.csproj.GenerateResource.cache
+C:\Users\lamou\source\repos\WfaCalAreaPerimetro\WfaCalAreaPerimetro\obj\Debug\WfaCalAreaPerimetro.csproj.CoreCompileInputs.cache
+C:\Users\lamou\source\repos\WfaCalAreaPerimetro\WfaCalAreaPerimetro\obj\Debug\WfaCalAreaPerimetro.exe
+C:\Users\lamou\source\repos\WfaCalAreaPerimetro\WfaCalAreaPerimetro\obj\Debug\WfaCalAreaPerimetro.pdb
+C:\Users\Edgard\source\repos\WfaCalAreaPerimetro\WfaCalAreaPerimetro\bin\Debug\WfaCalAreaPerimetro.exe.config
+C:\Users\Edgard\source\repos\WfaCalAreaPerimetro\WfaCalAreaPerimetro\bin\Debug\WfaCalAreaPerimetro.exe
+C:\Users\Edgard\source\repos\WfaCalAreaPerimetro\WfaCalAreaPerimetro\bin\Debug\WfaCalAreaPerimetro.pdb
+C:\Users\Edgard\source\repos\WfaCalAreaPerimetro\WfaCalAreaPerimetro\obj\Debug\WfaCalAreaPerimetro.csproj.AssemblyReference.cache
+C:\Users\Edgard\source\repos\WfaCalAreaPerimetro\WfaCalAreaPerimetro\obj\Debug\WfaCalAreaPerimetro.csproj.SuggestedBindingRedirects.cache
+C:\Users\Edgard\source\repos\WfaCalAreaPerimetro\WfaCalAreaPerimetro\obj\Debug\WfaCalAreaPerimetro.Form1.resources
+C:\Users\Edgard\source\repos\WfaCalAreaPerimetro\WfaCalAreaPerimetro\obj\Debug\WfaCalAreaPerimetro.Properties.Resources.resources
+C:\Users\Edgard\source\repos\WfaCalAreaPerimetro\WfaCalAreaPerimetro\obj\Debug\WfaCalAreaPerimetro.csproj.GenerateResource.cache
+C:\Users\Edgard\source\repos\WfaCalAreaPerimetro\WfaCalAreaPerimetro\obj\Debug\WfaCalAreaPerimetro.csproj.CoreCompileInputs.cache
+C:\Users\Edgard\source\repos\WfaCalAreaPerimetro\WfaCalAreaPerimetro\obj\Debug\WfaCalAreaPerimetro.exe
+C:\Users\Edgard\source\repos\WfaCalAreaPerimetro\WfaCalAreaPerimetro\obj\Debug\WfaCalAreaPerimetro.pdb
