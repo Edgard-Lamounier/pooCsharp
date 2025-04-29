@@ -1,0 +1,11 @@
+C:\Users\Edgard\source\repos\wfaAlunoMateria\wfaAlunoMateria\bin\Debug\wfaAlunoMateria.exe.config
+C:\Users\Edgard\source\repos\wfaAlunoMateria\wfaAlunoMateria\bin\Debug\wfaAlunoMateria.exe
+C:\Users\Edgard\source\repos\wfaAlunoMateria\wfaAlunoMateria\bin\Debug\wfaAlunoMateria.pdb
+C:\Users\Edgard\source\repos\wfaAlunoMateria\wfaAlunoMateria\obj\Debug\wfaAlunoMateria.csproj.AssemblyReference.cache
+C:\Users\Edgard\source\repos\wfaAlunoMateria\wfaAlunoMateria\obj\Debug\wfaAlunoMateria.csproj.SuggestedBindingRedirects.cache
+C:\Users\Edgard\source\repos\wfaAlunoMateria\wfaAlunoMateria\obj\Debug\wfaAlunoMateria.Form1.resources
+C:\Users\Edgard\source\repos\wfaAlunoMateria\wfaAlunoMateria\obj\Debug\wfaAlunoMateria.Properties.Resources.resources
+C:\Users\Edgard\source\repos\wfaAlunoMateria\wfaAlunoMateria\obj\Debug\wfaAlunoMateria.csproj.GenerateResource.cache
+C:\Users\Edgard\source\repos\wfaAlunoMateria\wfaAlunoMateria\obj\Debug\wfaAlunoMateria.csproj.CoreCompileInputs.cache
+C:\Users\Edgard\source\repos\wfaAlunoMateria\wfaAlunoMateria\obj\Debug\wfaAlunoMateria.exe
+C:\Users\Edgard\source\repos\wfaAlunoMateria\wfaAlunoMateria\obj\Debug\wfaAlunoMateria.pdb
