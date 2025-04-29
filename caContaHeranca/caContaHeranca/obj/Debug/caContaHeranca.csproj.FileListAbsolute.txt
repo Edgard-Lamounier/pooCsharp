@@ -1,0 +1,8 @@
+C:\Users\Edgard\source\repos\caContaHeranca\caContaHeranca\bin\Debug\caContaHeranca.exe.config
+C:\Users\Edgard\source\repos\caContaHeranca\caContaHeranca\bin\Debug\caContaHeranca.exe
+C:\Users\Edgard\source\repos\caContaHeranca\caContaHeranca\bin\Debug\caContaHeranca.pdb
+C:\Users\Edgard\source\repos\caContaHeranca\caContaHeranca\obj\Debug\caContaHeranca.csproj.AssemblyReference.cache
+C:\Users\Edgard\source\repos\caContaHeranca\caContaHeranca\obj\Debug\caContaHeranca.csproj.SuggestedBindingRedirects.cache
+C:\Users\Edgard\source\repos\caContaHeranca\caContaHeranca\obj\Debug\caContaHeranca.csproj.CoreCompileInputs.cache
+C:\Users\Edgard\source\repos\caContaHeranca\caContaHeranca\obj\Debug\caContaHeranca.exe
+C:\Users\Edgard\source\repos\caContaHeranca\caContaHeranca\obj\Debug\caContaHeranca.pdb

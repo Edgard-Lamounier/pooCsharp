@@ -1,0 +1,8 @@
+C:\Users\Edgard\source\repos\caContaBancaria\caContaBancaria\bin\Debug\caContaBancaria.exe.config
+C:\Users\Edgard\source\repos\caContaBancaria\caContaBancaria\bin\Debug\caContaBancaria.exe
+C:\Users\Edgard\source\repos\caContaBancaria\caContaBancaria\bin\Debug\caContaBancaria.pdb
+C:\Users\Edgard\source\repos\caContaBancaria\caContaBancaria\obj\Debug\caContaBancaria.csproj.AssemblyReference.cache
+C:\Users\Edgard\source\repos\caContaBancaria\caContaBancaria\obj\Debug\caContaBancaria.csproj.SuggestedBindingRedirects.cache
+C:\Users\Edgard\source\repos\caContaBancaria\caContaBancaria\obj\Debug\caContaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\Edgard\source\repos\caContaBancaria\caContaBancaria\obj\Debug\caContaBancaria.exe
+C:\Users\Edgard\source\repos\caContaBancaria\caContaBancaria\obj\Debug\caContaBancaria.pdb

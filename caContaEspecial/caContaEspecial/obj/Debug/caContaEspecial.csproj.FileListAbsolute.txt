@@ -1,0 +1,8 @@
+C:\Users\Edgard\source\repos\caContaEspecial\caContaEspecial\bin\Debug\caContaEspecial.exe.config
+C:\Users\Edgard\source\repos\caContaEspecial\caContaEspecial\bin\Debug\caContaEspecial.exe
+C:\Users\Edgard\source\repos\caContaEspecial\caContaEspecial\bin\Debug\caContaEspecial.pdb
+C:\Users\Edgard\source\repos\caContaEspecial\caContaEspecial\obj\Debug\caContaEspecial.csproj.AssemblyReference.cache
+C:\Users\Edgard\source\repos\caContaEspecial\caContaEspecial\obj\Debug\caContaEspecial.csproj.SuggestedBindingRedirects.cache
+C:\Users\Edgard\source\repos\caContaEspecial\caContaEspecial\obj\Debug\caContaEspecial.csproj.CoreCompileInputs.cache
+C:\Users\Edgard\source\repos\caContaEspecial\caContaEspecial\obj\Debug\caContaEspecial.exe
+C:\Users\Edgard\source\repos\caContaEspecial\caContaEspecial\obj\Debug\caContaEspecial.pdb
