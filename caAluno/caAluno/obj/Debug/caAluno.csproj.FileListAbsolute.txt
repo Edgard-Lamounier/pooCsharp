@@ -1,0 +1,8 @@
+C:\Users\Edgard\source\repos\caAluno\caAluno\bin\Debug\caAluno.exe.config
+C:\Users\Edgard\source\repos\caAluno\caAluno\bin\Debug\caAluno.exe
+C:\Users\Edgard\source\repos\caAluno\caAluno\bin\Debug\caAluno.pdb
+C:\Users\Edgard\source\repos\caAluno\caAluno\obj\Debug\caAluno.csproj.AssemblyReference.cache
+C:\Users\Edgard\source\repos\caAluno\caAluno\obj\Debug\caAluno.csproj.SuggestedBindingRedirects.cache
+C:\Users\Edgard\source\repos\caAluno\caAluno\obj\Debug\caAluno.csproj.CoreCompileInputs.cache
+C:\Users\Edgard\source\repos\caAluno\caAluno\obj\Debug\caAluno.exe
+C:\Users\Edgard\source\repos\caAluno\caAluno\obj\Debug\caAluno.pdb
