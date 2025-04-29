@@ -1,0 +1,7 @@
+C:\Users\GRVA\source\repos\caxCy\caxCy\bin\Debug\caxCy.exe.config
+C:\Users\GRVA\source\repos\caxCy\caxCy\bin\Debug\caxCy.exe
+C:\Users\GRVA\source\repos\caxCy\caxCy\bin\Debug\caxCy.pdb
+C:\Users\GRVA\source\repos\caxCy\caxCy\obj\Debug\caxCy.csproj.AssemblyReference.cache
+C:\Users\GRVA\source\repos\caxCy\caxCy\obj\Debug\caxCy.csproj.CoreCompileInputs.cache
+C:\Users\GRVA\source\repos\caxCy\caxCy\obj\Debug\caxCy.exe
+C:\Users\GRVA\source\repos\caxCy\caxCy\obj\Debug\caxCy.pdb

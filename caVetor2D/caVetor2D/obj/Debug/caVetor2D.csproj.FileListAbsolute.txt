@@ -1,0 +1,8 @@
+C:\Users\Edgard\source\repos\caVetor2D\caVetor2D\bin\Debug\caVetor2D.exe.config
+C:\Users\Edgard\source\repos\caVetor2D\caVetor2D\bin\Debug\caVetor2D.exe
+C:\Users\Edgard\source\repos\caVetor2D\caVetor2D\bin\Debug\caVetor2D.pdb
+C:\Users\Edgard\source\repos\caVetor2D\caVetor2D\obj\Debug\caVetor2D.csproj.AssemblyReference.cache
+C:\Users\Edgard\source\repos\caVetor2D\caVetor2D\obj\Debug\caVetor2D.csproj.SuggestedBindingRedirects.cache
+C:\Users\Edgard\source\repos\caVetor2D\caVetor2D\obj\Debug\caVetor2D.csproj.CoreCompileInputs.cache
+C:\Users\Edgard\source\repos\caVetor2D\caVetor2D\obj\Debug\caVetor2D.exe
+C:\Users\Edgard\source\repos\caVetor2D\caVetor2D\obj\Debug\caVetor2D.pdb
