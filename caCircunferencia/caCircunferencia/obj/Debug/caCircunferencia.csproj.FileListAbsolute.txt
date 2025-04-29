@@ -1,0 +1,8 @@
+C:\Users\Edgard\source\repos\caCircunferencia\caCircunferencia\bin\Debug\caCircunferencia.exe.config
+C:\Users\Edgard\source\repos\caCircunferencia\caCircunferencia\bin\Debug\caCircunferencia.exe
+C:\Users\Edgard\source\repos\caCircunferencia\caCircunferencia\bin\Debug\caCircunferencia.pdb
+C:\Users\Edgard\source\repos\caCircunferencia\caCircunferencia\obj\Debug\caCircunferencia.csproj.AssemblyReference.cache
+C:\Users\Edgard\source\repos\caCircunferencia\caCircunferencia\obj\Debug\caCircunferencia.csproj.SuggestedBindingRedirects.cache
+C:\Users\Edgard\source\repos\caCircunferencia\caCircunferencia\obj\Debug\caCircunferencia.csproj.CoreCompileInputs.cache
+C:\Users\Edgard\source\repos\caCircunferencia\caCircunferencia\obj\Debug\caCircunferencia.exe
+C:\Users\Edgard\source\repos\caCircunferencia\caCircunferencia\obj\Debug\caCircunferencia.pdb
