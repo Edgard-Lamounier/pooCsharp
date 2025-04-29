@@ -1,0 +1,8 @@
+C:\Users\Edgard\source\repos\GerenteEmpregado\GerenteEmpregado\bin\Debug\GerenteEmpregado.exe.config
+C:\Users\Edgard\source\repos\GerenteEmpregado\GerenteEmpregado\bin\Debug\GerenteEmpregado.exe
+C:\Users\Edgard\source\repos\GerenteEmpregado\GerenteEmpregado\bin\Debug\GerenteEmpregado.pdb
+C:\Users\Edgard\source\repos\GerenteEmpregado\GerenteEmpregado\obj\Debug\GerenteEmpregado.csproj.AssemblyReference.cache
+C:\Users\Edgard\source\repos\GerenteEmpregado\GerenteEmpregado\obj\Debug\GerenteEmpregado.csproj.SuggestedBindingRedirects.cache
+C:\Users\Edgard\source\repos\GerenteEmpregado\GerenteEmpregado\obj\Debug\GerenteEmpregado.csproj.CoreCompileInputs.cache
+C:\Users\Edgard\source\repos\GerenteEmpregado\GerenteEmpregado\obj\Debug\GerenteEmpregado.exe
+C:\Users\Edgard\source\repos\GerenteEmpregado\GerenteEmpregado\obj\Debug\GerenteEmpregado.pdb
