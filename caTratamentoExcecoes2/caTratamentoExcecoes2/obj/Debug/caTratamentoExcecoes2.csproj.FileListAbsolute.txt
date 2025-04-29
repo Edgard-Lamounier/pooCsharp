@@ -1,0 +1,8 @@
+C:\Users\Edgard\source\repos\caTratamentoExcecoes2\caTratamentoExcecoes2\bin\Debug\caTratamentoExcecoes2.exe.config
+C:\Users\Edgard\source\repos\caTratamentoExcecoes2\caTratamentoExcecoes2\bin\Debug\caTratamentoExcecoes2.exe
+C:\Users\Edgard\source\repos\caTratamentoExcecoes2\caTratamentoExcecoes2\bin\Debug\caTratamentoExcecoes2.pdb
+C:\Users\Edgard\source\repos\caTratamentoExcecoes2\caTratamentoExcecoes2\obj\Debug\caTratamentoExcecoes2.csproj.AssemblyReference.cache
+C:\Users\Edgard\source\repos\caTratamentoExcecoes2\caTratamentoExcecoes2\obj\Debug\caTratamentoExcecoes2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Edgard\source\repos\caTratamentoExcecoes2\caTratamentoExcecoes2\obj\Debug\caTratamentoExcecoes2.csproj.CoreCompileInputs.cache
+C:\Users\Edgard\source\repos\caTratamentoExcecoes2\caTratamentoExcecoes2\obj\Debug\caTratamentoExcecoes2.exe
+C:\Users\Edgard\source\repos\caTratamentoExcecoes2\caTratamentoExcecoes2\obj\Debug\caTratamentoExcecoes2.pdb

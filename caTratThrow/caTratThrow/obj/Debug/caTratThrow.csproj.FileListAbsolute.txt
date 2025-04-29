@@ -1,0 +1,8 @@
+C:\Users\Edgard\source\repos\caTratThrow\caTratThrow\bin\Debug\caTratThrow.exe.config
+C:\Users\Edgard\source\repos\caTratThrow\caTratThrow\bin\Debug\caTratThrow.exe
+C:\Users\Edgard\source\repos\caTratThrow\caTratThrow\bin\Debug\caTratThrow.pdb
+C:\Users\Edgard\source\repos\caTratThrow\caTratThrow\obj\Debug\caTratThrow.csproj.AssemblyReference.cache
+C:\Users\Edgard\source\repos\caTratThrow\caTratThrow\obj\Debug\caTratThrow.csproj.SuggestedBindingRedirects.cache
+C:\Users\Edgard\source\repos\caTratThrow\caTratThrow\obj\Debug\caTratThrow.csproj.CoreCompileInputs.cache
+C:\Users\Edgard\source\repos\caTratThrow\caTratThrow\obj\Debug\caTratThrow.exe
+C:\Users\Edgard\source\repos\caTratThrow\caTratThrow\obj\Debug\caTratThrow.pdb
