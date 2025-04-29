@@ -1,0 +1,8 @@
+C:\Users\Edgard\source\repos\caAlunoMateria\caAlunoMateria\bin\Debug\caAlunoMateria.exe.config
+C:\Users\Edgard\source\repos\caAlunoMateria\caAlunoMateria\bin\Debug\caAlunoMateria.exe
+C:\Users\Edgard\source\repos\caAlunoMateria\caAlunoMateria\bin\Debug\caAlunoMateria.pdb
+C:\Users\Edgard\source\repos\caAlunoMateria\caAlunoMateria\obj\Debug\caAlunoMateria.csproj.AssemblyReference.cache
+C:\Users\Edgard\source\repos\caAlunoMateria\caAlunoMateria\obj\Debug\caAlunoMateria.csproj.SuggestedBindingRedirects.cache
+C:\Users\Edgard\source\repos\caAlunoMateria\caAlunoMateria\obj\Debug\caAlunoMateria.csproj.CoreCompileInputs.cache
+C:\Users\Edgard\source\repos\caAlunoMateria\caAlunoMateria\obj\Debug\caAlunoMateria.exe
+C:\Users\Edgard\source\repos\caAlunoMateria\caAlunoMateria\obj\Debug\caAlunoMateria.pdb

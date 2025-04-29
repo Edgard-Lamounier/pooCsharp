@@ -1,0 +1,8 @@
+C:\Users\Edgard\source\repos\caAlunoMateriaMenu\caAlunoMateriaMenu\bin\Debug\caAlunoMateriaMenu.exe.config
+C:\Users\Edgard\source\repos\caAlunoMateriaMenu\caAlunoMateriaMenu\bin\Debug\caAlunoMateriaMenu.exe
+C:\Users\Edgard\source\repos\caAlunoMateriaMenu\caAlunoMateriaMenu\bin\Debug\caAlunoMateriaMenu.pdb
+C:\Users\Edgard\source\repos\caAlunoMateriaMenu\caAlunoMateriaMenu\obj\Debug\caAlunoMateriaMenu.csproj.AssemblyReference.cache
+C:\Users\Edgard\source\repos\caAlunoMateriaMenu\caAlunoMateriaMenu\obj\Debug\caAlunoMateriaMenu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Edgard\source\repos\caAlunoMateriaMenu\caAlunoMateriaMenu\obj\Debug\caAlunoMateriaMenu.csproj.CoreCompileInputs.cache
+C:\Users\Edgard\source\repos\caAlunoMateriaMenu\caAlunoMateriaMenu\obj\Debug\caAlunoMateriaMenu.exe
+C:\Users\Edgard\source\repos\caAlunoMateriaMenu\caAlunoMateriaMenu\obj\Debug\caAlunoMateriaMenu.pdb

@@ -1,0 +1,8 @@
+C:\Users\Edgard\source\repos\caAluno4\caAluno4\bin\Debug\caAluno4.exe.config
+C:\Users\Edgard\source\repos\caAluno4\caAluno4\bin\Debug\caAluno4.exe
+C:\Users\Edgard\source\repos\caAluno4\caAluno4\bin\Debug\caAluno4.pdb
+C:\Users\Edgard\source\repos\caAluno4\caAluno4\obj\Debug\caAluno4.csproj.AssemblyReference.cache
+C:\Users\Edgard\source\repos\caAluno4\caAluno4\obj\Debug\caAluno4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Edgard\source\repos\caAluno4\caAluno4\obj\Debug\caAluno4.csproj.CoreCompileInputs.cache
+C:\Users\Edgard\source\repos\caAluno4\caAluno4\obj\Debug\caAluno4.exe
+C:\Users\Edgard\source\repos\caAluno4\caAluno4\obj\Debug\caAluno4.pdb
